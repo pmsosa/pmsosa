@@ -21,7 +21,9 @@
 
 <div id="blog" align="center">
 
-  ![Latest Post](https://blog-badge.vercel.app/api/badge?feed=https%3A%2F%2Fkonukoii.com%2Fblog%2Ffeed%2F&style=normal&theme=jungle&showurl=true)
+<a href="https://konukoii.com/blog" target="_blank">
+  <img src="https://blog-badge.vercel.app/api/badge?feed=https%3A%2F%2Fkonukoii.com%2Fblog%2Ffeed%2F&style=normal&theme=jungle&showurl=true">
+</a>
 
 </div>
 
