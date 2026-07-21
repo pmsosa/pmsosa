@@ -15,6 +15,8 @@
   <i><p>🌊 Fueled by sea salt and good vibes 🌊</p></i>
 </div>
 
+
+<!--
 ----
 
 ### ✍️ Latest Blogpost
@@ -28,6 +30,7 @@
 </div>
 
 ----
+-->
 
 ### 🛠️ My Tech Stack
 
@@ -61,6 +64,7 @@
   </div>
 </div>
 
+<!--
 ---
 
 ### 📊 My GitHub Stats
@@ -71,3 +75,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pmsosa&theme=dracula&row=1" alt="pmsosa" />
   <br/>
 </div>
+-->
