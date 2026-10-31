@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ocelot.png" width="380">
+<!-- <img src="ocelot.png" width="380"> -->
 
 </div>
 
